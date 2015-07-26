@@ -1,0 +1,2 @@
+# minizinc
+following minizinc tutorial
